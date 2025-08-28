@@ -1,6 +1,8 @@
 
 # NoFapVision 🖤💀
 
+![alt text](https://github.com/ImpostorBoy228/nofapvision/blob/main/asset.png)
+
 AI classifier for recognizing two states: **fap** and **nofap** from video/webcam.
 
 The project includes:
